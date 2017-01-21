@@ -34,4 +34,5 @@
     <string name="msg_font_save_fail_text">Failed to create fontpack</string>
     <string name="edit_search_lang">Language search</string>
     <string name="select_toast_searh_fail">Search failed!</string>
+    <string name="test">test</string>
 </resources>
