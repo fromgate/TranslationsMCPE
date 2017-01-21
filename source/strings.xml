@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name"><b>Translations for Minecraft</b></string>
+    <string name="button_create_langpack">Create Langpack</string>
+    <string name="button_select_lang">Select languages</string>
+    <string name="text_instr_title">Instructions</string>
+    <string name="text_instr_line1">1. You can create resource pack with all possible translations or select required for current languages.</string>
+    <string name="text_instr_line2">2. Click button \"Select Languages\" if need to define which languages to include in your langpack.</string>
+    <string name="text_instr_line4">4. After selecting your desired languages or the \"All-in-One\" language pack, tap on \"Create Langpack\".</string>
+    <string name="text_instr_line5">5. Start Minecraft Pocket Edition (0.16 or newer) and activate the new resource pack \"Minecraft Translation\". Restart Minecraft and you will see new languages in the language settings menu.</string>
+    <string name="progress_prepare">Prepare...</string>
+    <string name="progress_prepare_download">Downloading translations</string>
+    <string name="msg_mcpc_fail_title">Download Failed</string>
+    <string name="msg_mcpc_fail_text">Failed to download Minecraft (PC) translations. Please check your Internet connection and try again.</string>
+    <string name="msg_mcpe_not_found_title">Minecraft not found</string>
+    <string name="msg_mcpe_not_found">Minecraft not found or you use older version of Minecraft. Please install latest version of the Minecraft and try again.</string>
+    <string name="msg_prepare_ok">Langfiles Downloaded</string>
+    <string name="msg_prepare_ok_text">Language list successfully downloaded</string>
+    <string name="progress_title">Creating resource pack</string>
+    <string name="msg_langpack_create_ok">Langpack created</string>
+    <string name="msg_langpack_create_ok_text">Resource pack with translation successfully created.</string>
+    <string name="msg_save_fail_title">Resource not saved</string>
+    <string name="msg_save_fail_text">Failed to create resource pack</string>
+    <string name="progress_mcpe_langs_found">Found MCPE langs: %1%</string>
+    <string name="progress_mcpc_langs_found">Found MCPC langs: %1%</string>
+    <string name="progress_extract_mcpe_lang">Extracting MCPE lang files</string>
+    <string name="progress_processing_translations">Processing translations</string>
+    <string name="progress_saving_resource">Saving resource pack</string>
+    <string name="progress_download_mcpc_lang">Downloading Minecraft (PC) lang files</string>
+    <string name="select_all">Select all</string>
+    <string name="select_lang_toast">Selected: %1%</string>
+    <string name="checkbox_download_font">Create Fontpack</string>
+    <string name="text_instr_line3">3. You may also create fontpack that will replace default (thin) unicode font.</string>
+    <string name="progress_saving_font">Downloading fontpack</string>
+    <string name="msg_font_save_fail_text">Failed to create fontpack</string>
+    <string name="edit_search_lang">Language search</string>
+    <string name="select_toast_searh_fail">Search failed!</string>
+</resources>
