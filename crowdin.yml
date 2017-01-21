@@ -1,4 +1,4 @@
 files:
   - source: /source/strings.xml
-    dest: /strings-do-not-translate-test.xml
+    dest: ../../strings-do-not-translate-test.xml
     translation: /translations/app/values-%android_code%/%original_file_name%
